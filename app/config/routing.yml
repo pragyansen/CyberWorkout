@@ -1,0 +1,4 @@
+nasty_cyber_workout:
+    resource: "@NastyCyberWorkoutBundle/Resources/config/routing.yml"
+    prefix:   /
+
